@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PaulMillerIWP
+- 👋 Hi, I’m @Paul
 - 👀 I’m interested in WealthTech and FinTech
 - 🌱 I’m currently learning Python & R
 
